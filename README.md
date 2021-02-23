@@ -9,6 +9,7 @@ There is a lot of material online, here a list of some useful place to start dig
 - [Treasure trove](#treasure-trove)
 
 ## General
+- [A short introduction to molecular biology](http://www.thomas-schlitt.net/Bioproject.html) target audience: computer scientist
 - https://bioinfo-fr.net/ [French]
 ## Transcriptomics
 - https://www.rna-seqblog.com/ Collect the publications and presentations around RNA-seq
