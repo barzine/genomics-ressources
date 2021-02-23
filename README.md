@@ -33,8 +33,9 @@ There is a lot of material online, here a list of some useful place to start dig
 - https://stats.stackexchange.com/ (for the statistics)
 
 ## Treasure trove
-Stuff that will be sorted later on
+Stuff that will be sorted later on (or not)
 - https://compgenomr.github.io/book/
 - http://www.sthda.com/english/wiki/genomics
 - https://datacarpentry.org/genomics-r-intro/
 - https://www.bioconductor.org/
+- https://www.ebi.ac.uk/research/publications/theses
