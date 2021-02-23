@@ -4,7 +4,6 @@ There is a lot of material online, here a list of some useful place to start dig
 
 ## Content
 - [Transcriptomics](#Transcriptomics)
-- [Seeking help](#seeking-help)
 - [More awesomeness](#more-awesomeness)
 - [Seeking help](#seeking-help)
 - [Treasure trove](#treasure-trove)
