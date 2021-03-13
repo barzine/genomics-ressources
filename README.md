@@ -21,6 +21,11 @@ There is a lot of material online, here a list of some useful place to start dig
 
 ### scRNAseq
 
+## Proteomics - MS-based data
+### QC
+- https://github.com/wenbostar/proteoQC
+
+
 ## More awesomeness
 - https://github.com/bayandin/awesome-awesomeness Many ressources for different languages
 - https://github.com/sindresorhus/awesome Collection of awesome for different topics with many around programming
