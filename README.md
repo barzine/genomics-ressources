@@ -29,6 +29,9 @@ There is a lot of material online, here a list of some useful place to start dig
 ### Proteogenomics
 - https://gtpb.github.io/IBIP19/pages/Proteogenomics
 
+## Tools
+- https://multiqc.info/
+
 ## More awesomeness
 - https://github.com/bayandin/awesome-awesomeness Many ressources for different languages
 - https://github.com/sindresorhus/awesome Collection of awesome for different topics with many around programming
