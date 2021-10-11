@@ -45,6 +45,7 @@ There is a lot of material online, here a list of some useful place to start dig
 
 ## Treasure trove
 Stuff that will be sorted later on (or not)
+- https://github.com/duerrsimon/bioicons A library of free open source icons for science illustrations in biology and chemistry
 - https://compgenomr.github.io/book/
 - http://www.sthda.com/english/wiki/genomics
 - https://datacarpentry.org/genomics-r-intro/
