@@ -8,7 +8,7 @@ There is a lot of material online, here a list of some useful place to start dig
 ## Content
 - [General](#General)
 - [Transcriptomics](#Transcriptomics)
-- [Proteomics](#Proteomics-MS-based-data)
+- [Proteomics](#proteomics---ms-based-data)
 - [More awesomeness](#more-awesomeness)
 - [Seeking help](#seeking-help)
 - [Treasure trove](#treasure-trove)
