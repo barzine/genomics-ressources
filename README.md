@@ -36,6 +36,7 @@ There is a lot of material online, here a list of some useful place to start dig
 - https://multiqc.info/
 
 ## More awesomeness
+- https://github.com/cmdcolin/awesome-genome-visualization various tools to visualise or display genomes
 - https://github.com/bayandin/awesome-awesomeness Many ressources for different languages
 - https://github.com/sindresorhus/awesome Collection of awesome for different topics with many around programming
 - https://github.com/qinwf/awesome-R
