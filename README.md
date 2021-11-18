@@ -47,8 +47,9 @@ There is a lot of material online, here a list of some useful place to start dig
 ## Seeking help
 - https://www.biostars.org/
 - https://bioinformatics.stackexchange.com/
-- https://biology.stackexchange.com/users/31626/mitra
+- https://biology.stackexchange.com/
 - https://stats.stackexchange.com/ (for the statistics)
+- https://www.reddit.com/r/bioinformatics/
 
 ## Treasure trove
 Stuff that will be sorted later on (or not)
