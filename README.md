@@ -17,6 +17,7 @@ There is a lot of material online, here a list of some useful place to start dig
 - [A short introduction to molecular biology](http://www.thomas-schlitt.net/Bioproject.html) target audience: computer scientist
 - https://bioinfo-fr.net/ [French]
 - [Awesome single cell](https://github.com/seandavi/awesome-single-cell) 
+- 
 ## Transcriptomics
 - https://www.rna-seqblog.com/ Collect the publications and presentations around RNA-seq
 
@@ -33,9 +34,11 @@ There is a lot of material online, here a list of some useful place to start dig
 - https://gtpb.github.io/IBIP19/pages/Proteogenomics
 
 ## Tools
-- https://multiqc.info/
+- https://www.scrna-tools.org/tools Tool repertoire for single cell data
+- https://multiqc.info/ 
 
 ## More awesomeness
+- https://github.com/seandavi/awesome-single-cell 
 - https://github.com/cmdcolin/awesome-genome-visualization various tools to visualise or display genomes
 - https://github.com/bayandin/awesome-awesomeness Many ressources for different languages
 - https://github.com/sindresorhus/awesome Collection of awesome for different topics with many around programming
