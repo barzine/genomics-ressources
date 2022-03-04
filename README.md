@@ -22,7 +22,7 @@ There is a lot of material online, here a list of some useful place to start dig
 - https://www.rna-seqblog.com/ Collect the publications and presentations around RNA-seq
 
 ### Bulk RNAseq
-- https://github.com/Mangul-Lab-USC/RNA-seq Review of a collection of RNAseq tools from QC to differential exon analysis and many other
+- https://github.com/Mangul-Lab-USC/RNA-seq [Review](https://arxiv.org/abs/2010.02391) of a collection of RNAseq tools from QC to differential exon analysis and many other
 
 ### scRNAseq
 
