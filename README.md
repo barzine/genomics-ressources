@@ -3,7 +3,7 @@
 
 _Helping the journey to awesomeness_
 
-There is a lot of material online, here a list of some useful place to start digging.
+There is a lot of material online. Here is a list of some useful places to start digging.
 
 ## Content
 - [General](#General)
@@ -35,15 +35,16 @@ There is a lot of material online, here a list of some useful place to start dig
 - https://gtpb.github.io/IBIP19/pages/Proteogenomics
 
 ## Tools
-- https://www.scrna-tools.org/tools Tool repertoire for single cell data
+- https://www.scrna-tools.org/tools Tool repertoire for single-cell data
 - https://multiqc.info/ 
 
 ## More awesomeness
 - https://github.com/seandavi/awesome-single-cell 
 - https://github.com/cmdcolin/awesome-genome-visualization various tools to visualise or display genomes
-- https://github.com/bayandin/awesome-awesomeness Many ressources for different languages
+- https://github.com/bayandin/awesome-awesomeness Many resources for different languages
 - https://github.com/sindresorhus/awesome Collection of awesome for different topics with many around programming
 - https://github.com/qinwf/awesome-R
+- https://glittr.org/ Git repositories with bioinformatics training material
 
 ## Seeking help
 - https://www.biostars.org/
@@ -54,7 +55,7 @@ There is a lot of material online, here a list of some useful place to start dig
 
 ## Treasure trove
 Stuff that will be sorted later on (or not)
-- https://github.com/duerrsimon/bioicons A library of free open source icons for science illustrations in biology and chemistry
+- https://github.com/duerrsimon/bioicons A library of free open-source icons for science illustrations in biology and chemistry
 - https://compgenomr.github.io/book/
 - http://www.sthda.com/english/wiki/genomics
 - https://datacarpentry.org/genomics-r-intro/
