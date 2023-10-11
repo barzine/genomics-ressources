@@ -40,6 +40,10 @@ There is a lot of material online. Here is a list of some useful places to start
 ### Proteogenomics
 - https://gtpb.github.io/IBIP19/pages/Proteogenomics
 
+
+## Reproducible science
+### https://guix.gnu.org/
+
 ## Tools
 - https://www.scrna-tools.org/tools Tool repertoire for single-cell data
 - https://multiqc.info/ 
