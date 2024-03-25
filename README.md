@@ -7,6 +7,7 @@ There is a lot of material online. Here is a list of some useful places to start
 
 ## Content
 - [General](#General)
+- [Genomics](#Genomics)
 - [Transcriptomics](#Transcriptomics)
 - [Proteomics](#proteomics---ms-based-data)
 - [More awesomeness](#more-awesomeness)
@@ -17,6 +18,9 @@ There is a lot of material online. Here is a list of some useful places to start
 - [A short introduction to molecular biology](http://www.thomas-schlitt.net/Bioproject.html) target audience: computer scientist
 - https://bioinfo-fr.net/ [French]
 - [Awesome single cell](https://github.com/seandavi/awesome-single-cell) 
+
+## Genomics
+- https://github.com/MareesAT/GWA_tutorial
 
 ## Transcriptomics
 - https://www.rna-seqblog.com/ Collect the publications and presentations around RNA-seq
