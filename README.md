@@ -49,6 +49,7 @@ There is a lot of material online. Here is a list of some useful places to start
 - https://multiqc.info/ 
 
 ## More awesomeness
+- https://github.com/openbiox/awosome-bioinformatics
 - https://github.com/seandavi/awesome-single-cell 
 - https://github.com/cmdcolin/awesome-genome-visualization various tools to visualise or display genomes
 - https://github.com/bayandin/awesome-awesomeness Many resources for different languages
