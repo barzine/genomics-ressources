@@ -45,6 +45,11 @@ There is a lot of material online. Here is a list of some useful places to start
 ### Proteogenomics
 - https://gtpb.github.io/IBIP19/pages/Proteogenomics
 
+## Stats, models and maths in general
+### UMAP
+- https://alleninstitute.org/resource/what-is-a-umap/
+- https://pair-code.github.io/understanding-umap/
+- https://jef.works/blog/2022/01/19/exploring-umap-parameters/
 
 ## Reproducible science
 ### https://guix.gnu.org/
