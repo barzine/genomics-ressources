@@ -68,14 +68,18 @@ There is a lot of material online. Here is a list of some useful places to start
 - https://glittr.org/ Git repositories with bioinformatics training material
 
 ## Seeking help
-- https://www.biostars.org/
+- https://www.biostars.org/  (https://www.biostars.org/t/forum/)
 - https://bioinformatics.stackexchange.com/
 - https://biology.stackexchange.com/
 - https://stats.stackexchange.com/ (for the statistics)
 - https://www.reddit.com/r/bioinformatics/
+- https://stackoverflow.com/ (for general coding issues)
+- https://rdrr.io/ (for R)
+- https://www.bioconductor.org/packages/release/BiocViews.html#___StatisticalMethod  and other categories
 
 ## Treasure trove
 Stuff that will be sorted later on (or not)
+- https://kp4cd.org/
 - https://github.com/duerrsimon/bioicons A library of free open-source icons for science illustrations in biology and chemistry
 - https://compgenomr.github.io/book/
 - http://www.sthda.com/english/wiki/genomics
