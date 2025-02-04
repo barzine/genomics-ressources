@@ -86,3 +86,4 @@ Stuff that will be sorted later on (or not)
 - https://datacarpentry.org/genomics-r-intro/
 - https://www.bioconductor.org/
 - https://www.ebi.ac.uk/research/publications/theses
+- https://coolors.co/
