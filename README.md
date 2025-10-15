@@ -21,7 +21,8 @@ There is a lot of material online. Here is a list of some useful places to start
 
 ## Genomics
 - https://github.com/MareesAT/GWA_tutorial
-- https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/ 
+- https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/
+- https://ngdc.cncb.ac.cn/colocdb/
 
 ## Transcriptomics
 - https://www.rna-seqblog.com/ Collect the publications and presentations around RNA-seq
