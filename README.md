@@ -49,6 +49,7 @@ There is a lot of material online. Here is a list of some useful places to start
 
 ## Annotation
 - http://cpdb.molgen.mpg.de/CPDB
+- https://interactome-atlas.org/
 
 ## Stats, models and maths in general
 ### UMAP
