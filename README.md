@@ -10,6 +10,7 @@ There is a lot of material online. Here is a list of some useful places to start
 - [Genomics](#Genomics)
 - [Transcriptomics](#Transcriptomics)
 - [Proteomics](#proteomics---ms-based-data)
+- [Annotation](#annotation)
 - [More awesomeness](#more-awesomeness)
 - [Seeking help](#seeking-help)
 - [Treasure trove](#treasure-trove)
@@ -45,6 +46,9 @@ There is a lot of material online. Here is a list of some useful places to start
 - https://github.com/wenbostar/proteoQC
 ### Proteogenomics
 - https://gtpb.github.io/IBIP19/pages/Proteogenomics
+
+## Annotation
+- http://cpdb.molgen.mpg.de/CPDB
 
 ## Stats, models and maths in general
 ### UMAP
