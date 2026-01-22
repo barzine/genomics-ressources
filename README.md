@@ -26,7 +26,7 @@ There is a lot of material online. Here is a list of some useful places to start
 - https://ngdc.cncb.ac.cn/colocdb/
 ### annotation
 - https://fuma.ctglab.nl/
-- http://www.mulinlab.org/vportal/a
+- http://www.mulinlab.org/vportal/
 - http://www.mulinlab.org/gwas4d/
 
   
